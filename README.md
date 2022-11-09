@@ -23,7 +23,7 @@ Completed the AWS Academy data analytics course.
 
 <h2>Environments Used </h2>
 
-- <b>AWS</b> (21H2)
+- <b>AWS</b>
 
 <h2>Certificate</h2>
 
